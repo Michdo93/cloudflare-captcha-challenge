@@ -6,3 +6,7 @@ A Python script with Selenium, undected-chromedriver and PyAutoGUI to solve the 
 ```
 pip install undetected-chromedriver selenium pyautogui pillow
 ```
+
+# Disadvantages
+
+- PyAutoGUI does not work in headless mode.
